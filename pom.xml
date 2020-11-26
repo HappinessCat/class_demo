@@ -5,6 +5,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>day01</module>
+        <module>aaaaaaaaaaaaaaaaaaaaaaaaaaaaa</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
